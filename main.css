@@ -1,0 +1,37 @@
+body {
+    background-color: #eee;
+}
+.caja {
+    background-color: #fff;
+    border-style: dashed;
+    border-color: #8f8eae;
+    border-width: 3px;
+    border-radius: 10px;
+}
+
+.titulo{
+    padding: 10px;
+}
+
+.texto{
+    padding: 10px;
+    border-top: #8f8eae solid 2px;
+}
+
+.pie{
+    padding: 10px;
+    border-top: #8f8eae solid 2px;
+}
+.azul{
+    background-color: #127dff;
+    padding: 5px;
+    border: 0px;
+    color: #eee;
+}
+
+.gris{
+    background-color: #8f8eae;
+    border: 0px;
+    padding: 5px;
+    color: #eee;
+}
