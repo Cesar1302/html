@@ -1,13 +1,25 @@
 body{
     background-color: rgba(93, 9, 9, 0.667);
+    padding: 15px;
 }
-.box{
+.box-index{
     margin: 15px auto;
     padding: 15px;
     background-color: rgb(250, 250, 250);
-    height: 650px;
+    height: 700px;
     width: 1300px;
     text-align: center;
+    padding: 15px;
+}
+
+.box-VyM{
+    margin: 15px auto;
+    padding: 15px;
+    background-color: rgb(250, 250, 250);
+    height: 680px;
+    width: 1300px;
+    text-align: center;
+    padding: 15px;
 }
 
 h1{
@@ -22,7 +34,8 @@ h2{
 }
 
 th{
-    color: #123;
+    color: #fff;
+    border: 1px solid #123;
 }
 
 hr{
@@ -36,5 +49,16 @@ p{
     color: #123;
     text-align: center;
     line-height: 1.5;
-    
+}
+
+.tabla-index{
+    align-items: center;
+    height: 30%;
+    width: 100%;
+    padding: 15px;
+    size-adjust: 15%;
+}
+
+td{
+    border: 1px solid #123;
 }
