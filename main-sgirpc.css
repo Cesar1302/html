@@ -36,6 +36,11 @@ p{
     line-height: 1.5;
 }
 
+.sgirpcdir{
+    position: center;
+    transition: 0.3s;
+}
+
 .sgirpcdir:hover{
     opacity: 0.8;
     position: center;
@@ -90,9 +95,13 @@ p{
     size-adjust: 15%;
 }
 
+.img-index{
+    position: center;
+    transition: 0.3s;
+}
+
 .img-index:hover{
     opacity: 0.8;
-    position: center;
     transform: scale(1.60, 1.60);
 }
 
